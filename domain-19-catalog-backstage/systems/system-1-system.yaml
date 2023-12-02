@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: system-1
+  description: System created for system-1
+  tags:
+    - tool
+spec:
+  owner: team-a
+  domain: domain-19
